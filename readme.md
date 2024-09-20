@@ -1,4 +1,4 @@
-#angular-ts-mode
+# angular-ts-mode
 
 A basic tree-sitter based mode for angular html files based on the built-in html-ts-mode and [https://github.com/dlvandenberg/tree-sitter-angular](https://github.com/dlvandenberg/tree-sitter-angular). Use that repo to get the grammar.
 
